@@ -1,0 +1,263 @@
+
+/******************HEADER SECTION******************/
+
+@media only screen and (max-width: 1500px){
+	.header-section{
+		height: 95vh;
+	}
+}
+
+@media only screen and (max-width: 1439px){
+	html,body{
+		font-size: 1rem;
+	}
+	}
+@media only screen and (max-width: 1500px){
+	html,body{
+		font-size: 0.5rem;
+	}
+	.header__box{
+		top: 35rem;
+		left: 10rem;
+	}
+	}
+
+@media only screen and (max-width: 500px){
+	html,body{
+		font-size: .4rem;
+	}
+	.header-section{
+		height: 80vh;
+	}
+	.header__box{
+		left: 6rem;
+	}
+}
+@media only screen and (max-width: 376px){
+	html,body{
+		font-size: .4rem;
+	}
+	.header__bar{
+		margin-top: -10rem;
+	}
+	.header__box{
+		top: 32rem;
+		left: 3rem;
+	}
+	.header__nav{
+		margin-top: 0;
+	}
+
+}
+@media only screen and (max-width: 321px){
+	html,body{
+		font-size: .35rem;
+	}
+	.header__box{
+		top: 36rem;
+		left: 3.5rem;
+	}
+}
+
+/******************************SKILLS SECTION***************/
+@media only screen and (max-width: 600px){
+.services__box{
+	flex: 1 1 100%;
+}
+.services__box--title{
+	padding: 3.85rem 5rem 3.85rem 0;
+}
+}
+
+
+/**********************PROFILE SECTION*************************/
+
+
+                      /*No quaries for skills section
+						*/
+
+
+
+/*************************PROJECTS**************************/
+
+
+@media only screen and (max-width: 1500px){
+	.svg-project-bottom{
+		margin-top: 0;
+	}
+	.projects{
+
+	}
+	.projects__desc{
+		padding: 7rem;
+		padding-top: 11rem;
+	}
+	.projects__desc-h2{
+		font-size: 2rem;
+	}
+	
+}
+@media only screen and (max-width: 1350px){
+	.projects__done{
+		width: 45%;
+	}
+	.projects__desc{
+		padding: 7rem;
+		padding-top: 15rem;
+	}
+
+}
+@media only screen and (max-width: 1090px){
+	.projects__done{
+		width: 50%;
+	}
+	.projects__desc{
+		padding: 7rem;
+		padding-top: 15rem;
+	}
+
+}
+@media only screen and (max-width: 980px){
+	.projects__done{
+		width: 60%;
+	}
+	.projects__desc{
+		padding: 7rem;
+		padding-top: 12rem;
+	}
+
+}
+@media only screen and (max-width: 770px){
+	.projects__done{
+		width: 70%;
+	}
+	.projects__desc{
+		padding: 5rem;
+		padding-top: 12rem;
+	}
+	.header__box{
+		top: 33.5rem;
+		left: 6.5rem;
+	}
+
+}
+@media only screen and (max-width: 665px){
+	.projects__done{
+		width: 80%;
+	}
+	.projects__desc{
+		padding: 3.5rem;
+		padding-top: 12rem;
+	}
+
+}
+@media only screen and (max-width: 575px){
+	.projects__done{
+		width: 90%;
+	}
+	.projects__desc{
+		padding: 2rem;
+		padding-top: 12rem;
+	}
+
+}
+@media only screen and (max-width: 500px){
+	.projects__done{
+		width: 80%;
+	}
+	.projects__desc{
+		padding: 3.5rem;
+		padding-top: 12rem;
+	}
+	.projects__desc-para{
+		font-size: 1.8rem;
+	}
+
+}
+@media only screen and (max-width: 475px){
+	.projects__done{
+		width: 90%;
+	}
+	.projects__desc{
+		padding: 3rem;
+		padding-top: 11.5rem;
+	}
+	.projects__desc-para{
+		font-size: 2rem;
+	}
+.projects__card{
+	height: 55rem;
+}
+}
+@media only screen and (max-width: 426px){
+	.projects__done{
+		width: 95%;
+	}
+	.projects__desc{
+		padding: 3rem;
+		padding-top: 11rem;
+	}
+	.projects__desc-para{
+		font-size: 2rem;
+	}
+.projects__card{
+	height: 60rem;
+}
+.header__box{
+		top: 38rem;
+		left: 6.5rem;
+	}
+}
+@media only screen and (max-width: 380px){
+	.projects__done{
+		width: 98%;
+	}
+	.projects__desc{
+		padding: 2rem;
+		padding-top: 12rem;
+	}
+	.projects__desc-para{
+		font-size: 2rem;
+	}
+.projects__card{
+	height: 60rem;
+}
+}
+
+
+/**************************CONTACT ME ****************/
+
+@media only screen and (max-width: 850px)
+{
+.contact{
+	flex-wrap: wrap;
+
+}
+}
+@media only screen and (max-width: 850px){
+.contact__column--left{
+	font-size: 2rem;
+}
+}
+/*******************FOOTER********************/
+@media only screen and (max-width: 1110px){
+	.footer-box{
+		width: 70%;
+	}
+}
+@media only screen and (max-width: 1050px){
+	.header__box{
+		top: 34rem;
+		left: 6rem;
+	}
+}
+@media only screen and (max-width: 625px){
+	.footer-box{
+		width: 80%;
+	}
+}
+@media only screen and (max-width: 560px){
+	.footer-box{
+		width: 90%;
+	}
+}
